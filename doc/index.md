@@ -1,6 +1,10 @@
 # Title
 **Dev:** *MKawano*   
 **Date:** *5.31.2023*
+**Course:** *Foundations of Programming Python*
+**Assignment 07**
+**GitHubURL: **
+
 
 ## Structured Error Handling (Try-Except)
 When you are programming, you fix your bugs immediately and make sure the code runs smoothly. However, it often happens that other people introduce new bugs when they use your program.
