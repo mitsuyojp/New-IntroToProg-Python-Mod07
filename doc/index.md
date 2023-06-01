@@ -1,9 +1,12 @@
-# Title
 **Dev:** *MKawano*   
-**Date:** *5.31.2023*
-**Course:** *Foundations of Programming Python*
-**Assignment 07**
-**GitHubURL: **
+**Date:** *5.31.2023*  
+**Course:** *Foundations of Programming Python*  
+**Assignment 07**  
+**GitHubURL:**  
+  
+    
+  
+# The Steps in Performing the Assignment Script
 
 
 ## Structured Error Handling (Try-Except)
